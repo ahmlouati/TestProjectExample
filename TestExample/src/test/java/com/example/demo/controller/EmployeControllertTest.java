@@ -30,7 +30,7 @@ import com.example.demo.service.JwtUserDetailsService;
 
 @SpringBootTest
 @AutoConfigureMockMvc
-public class HomeControllertTest {
+public class EmployeControllertTest {
 
     @Autowired
     private MockMvc mvc;
